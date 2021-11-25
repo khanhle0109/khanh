@@ -1,0 +1,48 @@
+
+.ama{
+    width: 400px;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body {
+    background: cornsilk;  }
+h1{
+    text-align: center;
+}
+.purpose{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+.numb{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.on{
+    width: 600px;
+}
+.lice > *{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hup{
+    color: darkmagenta;
+}
+.love{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.last{
+    width: 500px;
+}
+.tup{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+}
+.i{
+    font-size: 30px;
+    text-align: center;
+}
